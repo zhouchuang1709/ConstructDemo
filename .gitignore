@@ -2,10 +2,11 @@ Desktop.ini
 Thumbs.db
 
 dist
-src
+src/img
 ajaxexample1
 ajaxexample1tut
 
 *.zip
 *.rar
 *.autosave
+*.backup1
